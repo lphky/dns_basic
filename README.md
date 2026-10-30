@@ -12,7 +12,7 @@
 
 ## 發佈
 
-GitHub Pages：main 分支、根目錄。正式網址 https://porscheyeung.github.io/dns_basic/ 。
+GitHub Pages：main 分支、根目錄。正式網址 https://lphky.github.io/dns_basic/ 。
 
 ## 驗證
 
